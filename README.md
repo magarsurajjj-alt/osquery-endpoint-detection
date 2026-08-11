@@ -1,6 +1,7 @@
 # Windows Endpoint Detection & Investigation with osquery
 
 ## 📌 Overview
+<img width="1087" height="255" alt="Screenshot 2026-08-11 141737" src="https://github.com/user-attachments/assets/df6ac9a9-d17b-4cdf-aea8-c1640575399a" />
 
 This project demonstrates how **osquery** can be used for Windows endpoint
 visibility, process investigation, and network activity analysis.
