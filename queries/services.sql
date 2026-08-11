@@ -1,0 +1,1 @@
+SELECT name, display_name, status, path FROM services;
